@@ -1,0 +1,42 @@
+export const Questions = [
+    {
+        prompt: "React.js is written in which of the following language?",
+        optionA: "C",
+        optionB: "C++",
+        optionC: "JavaScript",
+        optionD: "Java",
+        answer: "C",
+    },
+    {
+        prompt: "How many elements can a valid react component return?",
+        optionA: "React doesn’t return element",
+        optionB: "1 Element",
+        optionC: "More than 1 element",
+        optionD: "None of the mentioned",
+        answer: "B",
+    },
+    {
+        prompt: "Which of the following command is used to Install create-react-app?",
+        optionA: "npm install create-react-app",
+        optionB: "npm install -f create-react-app",
+        optionC: "npm install -g create-react-app",
+        optionD: "install -g create-react-app",
+        answer: "C",
+    },
+    {
+        prompt: "Which of the following is method is not a part of ReactDOM?",
+        optionA: "ReactDOM.hydrate()",
+        optionB: "ReactDOM.destroy()",
+        optionC: "ReactDOM.createPortal()",
+        optionD: "All of the mentioned",
+        answer: "B",
+    },
+    {
+        prompt: "What of the following is used in React.js to increase performance?",
+        optionA: "Original DOM",
+        optionB: "Virutal DOM",
+        optionC: "Both A and B",
+        optionD: "None of the above",
+        answer: "B",
+    },
+]
